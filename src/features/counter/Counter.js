@@ -54,6 +54,8 @@ export function Counter() {
         >
           Add Async
         </button>
+        <img src="https://source.unsplash.com/kVg2DQTAK7c/128x128" alt="avatar 1"/>
+        <img src="https://source.unsplash.com/NohB3FJSY90/128x128" alt="avatar 1"/>
       </div>
     </div>
   );
